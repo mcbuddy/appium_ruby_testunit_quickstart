@@ -1,0 +1,13 @@
+# ../config/sample_google.yml
+
+ URI: 'http://www.google.com'
+
+ PAGE:
+   SEARCH_BAR:
+     'id': 'lst-ib'
+
+   SEARCH_BUTTON:
+     'class': 'lsbb'
+
+   FIRST_LINE:
+     'xpath': '//*[@id="rso"]/div/div/div/div/div[2]/div/div/div/div/div/h3/a'

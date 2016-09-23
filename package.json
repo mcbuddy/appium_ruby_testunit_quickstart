@@ -1,0 +1,19 @@
+{
+  "name": "TMG_Mobile_Tests",
+  "version": "0.0.1",
+  "description": "Mobile testing using Appium and Selenium-WebDriver",
+  "main": "index.js",
+  "directories": {
+    "spec": "spec"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Budi Sugianto and Wesley Bliss",
+  "license": "IDK",
+  "dependencies": {
+    "wd": "~0.2.18",
+    "colors": "~0.6.2",
+    "async": "~0.7.0"
+  }
+}
